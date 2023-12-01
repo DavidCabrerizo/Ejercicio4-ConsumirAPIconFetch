@@ -6,4 +6,4 @@ Rick and Morty API by David Cabrerizo
 -Esta aPP te muestra en tu navegador todos los personajes de Ricky and Morty que nos brindan desde la API  de la web https://rickandmortyapi.com/
 
 #### Visuals
-![] (https://drive.google.com/file/d/1VgCPhrToDFt8pw0pTQroUBiG_sFLqmJh/view)
+![] (https://github.com/DavidCabrerizo/Ejercicio4-ConsumirAPIconFetch/blob/main/RickAndMorty.png)
