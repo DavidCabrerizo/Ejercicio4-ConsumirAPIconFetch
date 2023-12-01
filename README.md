@@ -7,3 +7,9 @@ Rick and Morty API by David Cabrerizo
 
 #### Visuals
 ![](https://github.com/DavidCabrerizo/Ejercicio4-ConsumirAPIconFetch/blob/main/RickAndMorty.png)
+
+#### Installation
+Installation
+-You only must download it and with Visual Studio Code open the folder and run the index.html file with Live server.
+-Solo debes descargarlo y con Visual Studio Code abrir la carpeta y ejecutar el archivo index.html con el  LiveServer.
+Usage
