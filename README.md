@@ -26,8 +26,8 @@ Usage
 - If you have any questions you can send me an email to: visualproductor@gmail.com
 
 ### AUTHORS AND ACKNOWLEDGMENT
-- Desde la web de ricandmortyapi.com podemos conocer a sus autores en su apartado ![](https://rickandmortyapi.com/about)
-- From the ricandmortyapi.com website we can meet its authors in its section ![](https://rickandmortyapi.com/about)
+- Desde la web de ricandmortyapi.com podemos conocer a sus autores en su apartado https://rickandmortyapi.com/about
+- From the ricandmortyapi.com website we can meet its authors in its section https://rickandmortyapi.com/about
 
 ### LICENSE
 
